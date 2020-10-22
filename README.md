@@ -39,7 +39,7 @@ More information at [smnccoin.com](https://www.smnccoin.com)
 
 <table>
 <th>Phase</th><th>Collateral</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>500 Smnc</td><td>351-8,000</td><td>1 Smnc</td><td>90% (1.8 Smnc)</td><td>10% (0.2 Smnc)</td></tr>
+<tr><td>Phase 1</td><td>500 Smnc</td><td>351-8,000</td><td>1 Smnc</td><td>90% (0.8 Smnc)</td><td>10% (0.1 Smnc)</td></tr>
 <tr><td>Phase 2</td><td>400 Smnc</td><td>8,001-15,000</td><td>2.5 Smnc</td><td>90% (2.25 Smnc)</td><td>10% (0.25 Smnc)</td></tr>
 <tr><td>Phase 3</td><td>500 Smnc</td><td>15,001-25,000</td><td>3 Smnc</td><td>90% (2.7 Smnc)</td><td>10% (0.3 Smnc)</td></tr>
 <tr><td>Phase 4</td><td>600 Smnc</td><td>25,001-35,000</td><td>5 Smnc</td><td>90% (4.5 Smnc)</td><td>10% (0.5 Smnc)</td></tr>
