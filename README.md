@@ -53,9 +53,9 @@ More information at [smnccoin.com](https://www.smnccoin.com)
 <tr><td>Phase 12</td><td>25,000 Smnc</td><td>160,001-180,000</td><td>120 Smnc</td><td>90% (108 Smnc)</td><td>10% (12 Smnc)</td></tr>
 <tr><td>Phase 13</td><td>30,000 Smnc</td><td>180,001-200,000</td><td>135 Smnc</td><td>90% (121.5 Smnc)</td><td>10% (13.5 Smnc)</td></tr>
 <tr><td>Phase 14</td><td>40,000 Smnc</td><td>200,001-250,000</td><td>150 Smnc</td><td>90% (135 Smnc)</td><td>10% (15 Smnc)</td></tr>
-<tr><td>Phase 15</td><td>50,000 Smnc</td><td>250,001-300,000</td><td>140 Smnc</td><td>90% (126 Smnc)</td><td>10% (14 Smnc)</td></tr>
-<tr><td>Phase 16</td><td>60,000 Smnc</td><td>300,001-350,000</td><td>130 Smnc</td><td>90% (117 Smnc)</td><td>10% (13 Smnc)</td></tr>
-<tr><td>Phase 17</td><td>70,000 Smnc</td><td>350,001-400,000</td><td>120 Smnc</td><td>90% (108 Smnc)</td><td>10% (12 Smnc)</td></tr>
-<tr><td>Phase 18</td><td>100,000 Smnc</td><td>400,001-500,000</td><td>100 Smnc</td><td>90% (90 Smnc)</td><td>10% (10 Smnc)</td></tr>
+<tr><td>Phase 15</td><td>50,000 Smnc</td><td>250,001-300,000</td><td>150 Smnc</td><td>90% (135 Smnc)</td><td>10% (15 Smnc)</td></tr>
+<tr><td>Phase 16</td><td>60,000 Smnc</td><td>300,001-350,000</td><td>140 Smnc</td><td>90% (126 Smnc)</td><td>10% (14 Smnc)</td></tr>
+<tr><td>Phase 17</td><td>60,000 Smnc</td><td>350,001-400,000</td><td>130 Smnc</td><td>90% (117 Smnc)</td><td>10% (13 Smnc)</td></tr>
+<tr><td>Phase 18</td><td>100,000 Smnc</td><td>400,001-500,000</td><td>120 Smnc</td><td>90% (90 Smnc)</td><td>10% (10 Smnc)</td></tr>
 <tr><td>Phase 19</td><td>100,000 Smnc</td><td>500,001-∞</td><td>100 Smnc</td><td>90% (90 Smnc)</td><td>10% (10 Smnc)</td></tr>
 </table>
